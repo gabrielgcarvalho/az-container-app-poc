@@ -1,2 +1,2 @@
 app_name = "pdf-generator"
-app_port = "3000"
+app_port = "80"
